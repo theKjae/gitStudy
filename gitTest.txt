@@ -1,0 +1,11 @@
+git init
+
+git config user.name "theKjae"
+git config user.email "juintin@kakao.com"
+git remote add origin "https://github.com/theKjae/gitStudy"
+
+git status
+
+git add gitStudy/gitTest.java
+git commit -m "commitTest"
+git push origin "master"
