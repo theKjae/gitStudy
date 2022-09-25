@@ -6,6 +6,6 @@ git remote add origin "https://github.com/theKjae/gitStudy"
 
 git status
 
-git add gitStudy/gitTest.java
+git add gitTest.java
 git commit -m "commitTest"
 git push origin "master"
